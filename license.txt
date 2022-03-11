@@ -1,0 +1,5 @@
+http://creativecommons.org/publicdomain/zero/1.0/
+
+To the extent possible under law, Nathaniel Beaver has waived all copyright and related or neighboring rights to Jupyter figure rendering tests. This work is published from: United States. 
+
+https://github.com/nbeaver/jupyter-figure-rendering-tests
